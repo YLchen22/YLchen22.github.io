@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic homepage! I am a 4th-year undergraduate majoring in Industrial Engineering, from the University of Electronic Science and Technology of China (UESTC).
+Welcome to my academic homepage! I am a 4th-year undergraduate from the University of Electronic Science and Technology of China (UESTC), majoring in Industrial Engineering.
 
 This website is still under construction.
 
