@@ -12,9 +12,9 @@ title                    : "Yuanlv Chen"
 title_separator          : "-"
 name                     : &name "Yuanlv Chen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YLchen22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "YLchen22/YLchen22.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yuanlv Chen"
+  bio              : "Undergraduate of Industrial Engineering"
+  location         : "China"
+  employer         : "University of Electronic Science and Techology of China"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuanlvchen@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
