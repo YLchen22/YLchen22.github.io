@@ -14,10 +14,10 @@ Journal
 
 Ongoing
 ======
-* Reliability Analysis of the Control Rod Drive Mechanism Based on Physics-informed Neural Networks.
+* Reliability Analysis of the Control Rod Drive Mechanism Based on Physics-informed Neural Networks. <br>
   Yuanlv Chen, Tangfan Xiahou. 
 
-* Online Dynamic Mode Decomposition through debiasing.
+* Online Dynamic Mode Decomposition through debiasing. <br>
   Yuanlv Chen, Ruihan Xu, Yiping Lu. 
 
 
