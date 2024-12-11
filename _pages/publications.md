@@ -18,7 +18,7 @@ Ongoing
   Yuanlv Chen, Tangfan Xiahou. 
 
 * Online Dynamic Mode Decomposition through debiasing. <br>
-  Yuanlv Chen, Ruihan Xu, Yiping Lu. 
+  Yuanlv Chen, Ruihan Xu, and Yiping Lu. 
 
 
   
