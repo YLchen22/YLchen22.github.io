@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings! I am currently a research assistant at the Center for System Reliability and Safety of the University of Electronic Science and Technology of China (UESTC).
 
-I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineering from UESTC in July, 2024 . Now I am using a gap year to do some research, and applying for a doctoral program starting from fall 2025. 
+I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineering from UESTC in july, 2024 . Now I am using a gap year to do some research, and applying for a doctoral program starting from fall 2025. 
 
 I am particularly interested in the theory and scientific application of machine learning!
 
