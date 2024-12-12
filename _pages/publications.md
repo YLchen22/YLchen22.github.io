@@ -17,7 +17,7 @@ Ongoing
 * Data-driven Discovery and Reliability Analysis of the Control Rod Drive Mechanism Based on Physics-informed Neural Networks. <br>
   Yuanlv Chen, Tangfan Xiahou. 
 
-* Online Dynamic Mode Decomposition through debiasing. <br>
+* Online Dynamic Mode Decomposition through Debiasing. <br>
   Yuanlv Chen, Ruihan Xu, and Yiping Lu. 
 
 
