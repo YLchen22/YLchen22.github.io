@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: ../files/cv2024.pdf
+    url: /cv/
     
   - title: "Others"
     url: /others/
