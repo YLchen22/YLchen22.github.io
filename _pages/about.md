@@ -15,7 +15,7 @@ I am particularly interested in the theory and scientific application of machine
 
 Education
 ------
-* B.E. in Industrial Engineering, 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
+* B.E. in Industrial Engineering, 2020 ~ 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
 
 Experience
 ------
