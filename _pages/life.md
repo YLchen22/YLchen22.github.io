@@ -3,9 +3,6 @@ layout: archive
 permalink: /life/
 title: "Life"
 author_profile: true
-redirect_from: 
-  - /life/
-  - /life.html
 ---
 
 I am an enthusiast of football (soccer), film, literature and history. I used to play for the football team of our school in UESTC.
