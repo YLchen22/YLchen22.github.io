@@ -12,6 +12,3 @@ In my free time, I also enjoy playing video games, especially the products of Pa
 I support the National Football Team of China and Arsenal FC. Come On You Gunners!
 
 
-
-
-
