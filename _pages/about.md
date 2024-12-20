@@ -13,6 +13,13 @@ I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineeri
 
 I am particularly interested in the theory and scientific application of machine learning!
 
+Research Interests
+------
+* Scientific Machine Learning
+* Traditional Machine Learning & Statistical Learning
+* Interpretability of Applied Machine Learning
+* Scientific & Engineering Data-driven Discovery
+
 Education
 ------
 * B.E. in Industrial Engineering, 2020 ~ 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
@@ -30,7 +37,4 @@ Experience
   * Advisor: [Prof. Yiping Lu](https://2prime.github.io/)
   * Ongoing: Online Dynamic Mode Decomposition through Debiasing.
 
-
-------
-This webpage is still under construction. Powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
 
