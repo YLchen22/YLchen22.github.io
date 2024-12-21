@@ -8,9 +8,9 @@ author_profile: true
 Journal
 ------
 
-* Uncertainty Analysis of Structural Output with Closed-Form Expression Based on Surrogate Model. <br>
+* **Uncertainty Analysis of Structural Output with Closed-Form Expression Based on Surrogate Model.** <br>
   Yuanlv Chen, Yan Shi, Hong-Zhong Huang, Dong Sun, and Michael Beer.  <br>
-  Probabilistic Engineering Mechanics 73 (July 2023): 103482.
+  *Probabilistic Engineering Mechanics 73 (July 2023): 103482.*
 
 Ongoing
 ------
