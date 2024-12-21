@@ -15,10 +15,11 @@ I am particularly interested in the theory and scientific application of machine
 
 Research Interests
 ------
+For I have not delved deeply into a specific field yet, I am open but not limited to the following related topics:
 * Scientific Machine Learning
 * Traditional Machine Learning & Statistical Learning
 * Interpretability of Applied Machine Learning
-* Scientific & Engineering Data-driven Discovery
+* Scientific & Engineering Data-driven Discovery and Decision
 
 Education
 ------
