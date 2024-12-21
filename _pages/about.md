@@ -19,7 +19,7 @@ I am open, but not limited to the following interconnected topics:
 * Scientific Machine Learning
 * Traditional Machine Learning & Statistical Learning
 * Interpretability of Applied Machine Learning
-* Scientific & Engineering Data-driven Discovery and Decision
+* Data-driven Discovery or Data-enhanced Decision in Sci & Eng
 
 Education
 ------
