@@ -15,7 +15,7 @@ I am particularly interested in the theory and scientific application of machine
 
 Research Interests
 ------
-I am open, but not limited to the following interconnected topics:
+Generally, I am open (but not limited) to the following interconnected topics:
 * Scientific Machine Learning
 * Traditional Machine Learning & Statistical Learning
 * Interpretability of Applied Machine Learning
