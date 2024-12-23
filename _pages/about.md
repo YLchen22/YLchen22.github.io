@@ -31,7 +31,7 @@ Experience
   * Center for System Reliability and Safety, School of Mechanical and Electrical Engineering, UESTC
   * Advisor: [Prof. Yu Liu](https://faculty.uestc.edu.cn/yuliu/en/index.htm), Prof. Tangfan Xiahou, Prof. Yan Shi.
   * Published: Uncertainty Analysis of Structural Output with Closed-Form Expression Based on Surrogate Model.
-  * Ongoing: Data-driven Discovery and Reliability Analysis of the Control Rod Drive Mechanism Based on Physics-informed Neural Networks.
+  * Ongoing: Data-driven Discovery and Reliability Analysis of the Control Rod Drive Mechanism with Physics-informed Neural Networks.
  
 * Research Assistant (remote): 2023 ~
   * [SCALE LAB](https://scale-lab-northwestern.github.io/), Northwestern University
