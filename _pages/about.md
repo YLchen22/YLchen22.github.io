@@ -17,9 +17,10 @@ Research Interests
 ------
 Generally, I am open (but not limited) to the following interconnected topics:
 * Scientific Machine Learning
+* Data-driven Discovery or Data-enhanced Decision
 * Traditional Machine Learning & Statistical Learning
 * Interpretability of Applied Machine Learning
-* Data-driven Discovery or Data-enhanced Decision
+* CV & Generative Models
 
 Education
 ------
