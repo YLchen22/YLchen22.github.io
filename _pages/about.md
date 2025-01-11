@@ -22,6 +22,15 @@ Generally, I am open (but not limited) to the following interconnected topics:
 * Traditional Machine Learning & Statistical Learning
 * CV & Generative Models
 
+And techniques:
+* Physics-informed Machine Learning
+* Diffusion Model
+* Kernel Methods
+* Dimensionality Reduction
+* Uncertainty Quantification
+* System Dynamics and Control
+
+
 Education
 ------
 * B.E. in Industrial Engineering, 2020 ~ 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
