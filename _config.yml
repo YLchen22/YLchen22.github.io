@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Yuanlv Chen's Homepage"
 title_separator          : "-"
-name                     : " cyl " &name 
-description              : &description
+name                     : &name " cyl "  
+description              : &description ""
 url                      : https://ylchen22.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ylchen22/Ylchen22.github.io"
