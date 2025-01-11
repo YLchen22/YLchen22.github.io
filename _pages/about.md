@@ -24,11 +24,11 @@ Generally, I am open (but not limited) to the following interconnected topics:
 
 And techniques:
 * Physics-informed Machine Learning
+* System Dynamics and Control
 * Diffusion Model
 * Kernel Methods
 * Dimensionality Reduction
 * Uncertainty Quantification
-* System Dynamics and Control
 
 
 Education
