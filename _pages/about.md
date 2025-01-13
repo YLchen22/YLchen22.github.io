@@ -11,15 +11,15 @@ Greetings! I am currently a research assistant at the Center for System Reliabil
 
 I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineering from UESTC in July, 2024 . Now I am using a gap year to do some research, and applying for a doctoral program starting from 2025 Fall. 
 
-I am particularly interested in the data-centric methods, theory, and scientific application of machine learning!
+I am particularly interested in the data-centric methods, theory, and scientific application of machine learning. :)
 
 Research Interests
 ------
 Generally, I am open (but not limited) to the following interconnected topics:
 * Scientific Machine Learning
-* Data-driven Discovery or Data-enhanced Decision
+* Data-driven Discovery & Data-enhanced Decision
 * Interpretability of Applied Machine Learning
-* Traditional Machine Learning & Statistical Learning
+* Statistical Learning
 * CV & Generative Models
 
 And techniques:
