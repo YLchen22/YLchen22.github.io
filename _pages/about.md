@@ -16,8 +16,9 @@ I am particularly interested in the data-centric methods, theory, and scientific
 Research Interests
 ------
 Generally, I am open (but not limited) to the following interconnected topics:
-* Scientific Machine Learning
-* Data-driven Discovery & Data-enhanced Decision
+* Data-driven Discovery
+* Data-enhanced Decision-making
+* Modeling Scientific Problems and Solution with Machine Learning
 * Interpretability of Applied Machine Learning
 * Statistical Learning
 * CV & Generative Models
