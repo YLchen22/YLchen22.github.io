@@ -31,7 +31,7 @@ And techniques:
 * Dimensionality Reduction
 * Uncertainty Quantification
 
-I am excited about inventing new mathematical methods and tools, further than simply applying existing solutions.
+I am excited about exploring new mathematical methods and tools, further than simply applying existing solutions.
 
 
 Education
