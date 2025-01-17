@@ -20,18 +20,16 @@ I am excited about exploring new mathematical methods and tools, further than si
 Generally, I am open (but not limited) to these interconnected topics:
 * Data-driven Discovery
 * Data-enhanced Decision
-* Modeling Scientific Problems and Solution with Machine Learning
-* Interpretability of Applied Machine Learning
-* Statistical Learning
-* CV & Generative Models
+* (Scientific) Problem Modeling and Solution with Machine Learning
+* Machine Learning Interpretability
+* Physics-informed or Uncertainty-aware Machine Learning
 
 And techniques:
-* Physics-informed Machine Learning
-* Uncertainty-aware Machine Learning
-* System Dynamics and Control
-* Diffusion Model
 * Kernel Methods
 * Dimensionality Reduction
+* System Dynamics and Control
+* Statistical Learning
+* CV & Generative Models
 
 Education
 ------
