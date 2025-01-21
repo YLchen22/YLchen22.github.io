@@ -20,7 +20,7 @@ Research Interests
 I am excited about exploring new mathematical methods and tools for specific, challenging problems. Generally, I am open (but not limited) to these interconnected topics:
 * Data-driven Discovery
 * Data-enhanced Decision
-* (Scientific) Problem Modeling and Solution with Machine Learning
+* Signal Processing
 * Machine Learning Interpretability
 * Physics-informed or Uncertainty-aware Machine Learning
 
