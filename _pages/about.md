@@ -29,7 +29,7 @@ And techniques:
 * Dimensionality Reduction
 * System Dynamics and Control
 * Statistical Learning
-* CV & Generative Models
+* CV and Generative Models
 
 Education
 ------
