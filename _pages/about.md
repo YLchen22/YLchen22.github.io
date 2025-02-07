@@ -17,7 +17,7 @@ I am particularly interested in the data-centric methods, theory, and scientific
 
 Research Interests
 ------
-I am excited about exploring new mathematical methods and tools for specific, challenging problems. Generally, I am open (but not limited) to these interconnected topics:
+I am excited about exploring new mathematical methods and tools for specific, challenging problems. As a growing researcher, I am open (but not limited) to these interconnected topics:
 * Data-driven Discovery
 * Data-enhanced Decision
 * Signal Processing
