@@ -18,18 +18,12 @@ I am particularly interested in the data-centric methods, theory, and scientific
 Research Interests
 ------
 I am excited about exploring new mathematical methods and tools for specific, challenging problems. As a growing researcher, I am open (but not limited) to these interconnected topics:
-* Data-driven Discovery
-* Data-enhanced Decision
-* Signal Processing
-* Machine Learning Interpretability
-* Physics-informed or Uncertainty-aware Machine Learning
-
-And techniques:
-* Kernel Methods
-* Dimensionality Reduction
-* System Dynamics and Control
+* Data-driven Discovery & Decision
 * Statistical Learning
-* CV and Generative Models
+* Interpretable or Physics-informed Machine Learning
+* Signal Processing
+* System Dynamics and Control
+* etc...
 
 Education
 ------
