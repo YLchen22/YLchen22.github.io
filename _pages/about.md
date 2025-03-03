@@ -21,8 +21,8 @@ I am excited about exploring new mathematical methods and tools for specific, ch
 * Data-driven Discovery and Operation
 * Statistical Learning
 * Interpretable or Physics-informed Machine Learning
-* Time-series Analysis and Online Learning
-* System Dynamics and Dimensional Reduction
+* Signal Analysis and Online Learning
+* Dynamics and Dimensional Reduction
 * etc...
 
 Education
