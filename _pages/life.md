@@ -5,7 +5,7 @@ title: "Life"
 author_profile: true
 ---
 
-I am an enthusiast of football (soccer), film, literature and history. I used to play for the football team of our school in UESTC.
+I love football (soccer), film, literature and history. I was one of the football team of our school in UESTC.
 
 Sometimes I also play video games in my free time, mostly the products of **Paradox Interactive and Nintendo**.
 
