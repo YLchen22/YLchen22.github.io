@@ -10,19 +10,18 @@ redirect_from:
 Greetings! 
 
 I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineering from the University of Electronic Science and Technology of China (UESTC) in July, 2024. 
-Now I am using a gap year to do some research, and prepare for applying a graduate program starting from 2025 Fall. 
-I currently work as a research assistant at the Center for System Reliability and Safety of UESTC.
+I am taking a gap year to explore some academic topics and doing research assistant at the Center for System Reliability and Safety of UESTC. I will join the Master of Data Science program at the Chinese University of Hong Kong - Shenzhen from 2025 fall.
 
-I am particularly interested in the data-centric methods, theory, and scientific application of machine learning. :)
+I am particularly interested in the statistics and machine learning methods in data science. :)
 
 Research Interests
 ------
 I am excited about exploring new mathematical methods and tools for specific, challenging problems. As a growing researcher, I am open (but not limited) to these interconnected topics:
-* Data-driven Discovery and Operation
+* Data Mining and Knowledge Discovery
 * Statistical Learning
-* Interpretable or Physics-informed Machine Learning
 * Signal Analysis and Online Learning
-* Dynamics and Dimensional Reduction
+* Dimensional Reduction
+* Interpretable or Physics-informed Machine Learning
 * etc...
 
 Education
