@@ -19,9 +19,9 @@ Research Interests
 ------
 I am excited about exploring new mathematical methods, tools, and algorithms for specific, challenging problems. As a growing researcher, I am open (but not limited) to these interconnected topics:
 * Efficient and Interpretable Machine Learning
-* Data-Driven Modeling and Dimensionality Reduction
 * Statistical Learning
 * Time Series Analysis
+* Data-Driven Modeling and Dimensionality Reduction
 * Pattern Discovery and Knowledge Extraction
 * etc...
 
