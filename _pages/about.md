@@ -17,12 +17,12 @@ I am particularly interested in the statistics and machine learning methods in d
 
 Research Interests
 ------
-I am excited about exploring new **mathematical methods, tools, and algorithms** for specific, challenging problems. **The efficiency and interpretability in machine learning** sounds interesting to me as well. 
+I am excited about exploring new **mathematical methods, tools, and algorithms** for specific, challenging problems.
 
 Also, as a growing researcher, I am open (but not limited) to these interconnected topics:
 * Statistical Learning
 * Time Series Analysis
-* Data-Driven Modeling and Dimensionality Reduction
+* Data-Driven Modeling or Decision
 * Pattern Discovery and Knowledge Extraction
 * etc...
 
