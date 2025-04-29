@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings :) 
+Greetings! :) 
 
 I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineering from the University of Electronic Science and Technology of China (UESTC) in July, 2024. 
 
