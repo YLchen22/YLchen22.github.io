@@ -19,7 +19,7 @@ Research Interests
 ------
 I am excited about exploring new **mathematical methods, tools, and algorithms** for specific, challenging problems (maybe in the background of basic sciences or finance).
 
-Also, as a growing researcher, I am open (but not limited) to these interconnected topics:
+By the way, as a growing researcher, I am open (but not limited) to these interconnected topics:
 * Statistical Learning
 * Time Series Analysis
 * Data-Driven Modeling or Decision
