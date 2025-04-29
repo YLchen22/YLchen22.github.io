@@ -17,7 +17,7 @@ I am particularly interested in the statistics and machine learning methods in d
 
 Research Interests
 ------
-I am excited about exploring new **mathematical methods, tools, and algorithms** for specific, challenging problems.
+I am excited about exploring new **mathematical methods, tools, and algorithms** for specific, challenging problems (maybe in the background of basic sciences or finance).
 
 Also, as a growing researcher, I am open (but not limited) to these interconnected topics:
 * Statistical Learning
@@ -28,7 +28,8 @@ Also, as a growing researcher, I am open (but not limited) to these interconnect
 
 Education
 ------
-* B.E. in Industrial Engineering, 2020 ~ 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
+* B.E. in Industrial Engineering, 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
+* M.Sc. in Data Science, (Expected) <br> The Chinese University of Hong Kong - Shenzhen, Shenzhen, China
 
 Experience
 ------
