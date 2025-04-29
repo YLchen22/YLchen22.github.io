@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! 
+Greetings :) 
 
 I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineering from the University of Electronic Science and Technology of China (UESTC) in July, 2024. 
 
 Currently I am taking a gap year to explore some academic topics and doing research assistant at the Center for System Reliability and Safety of UESTC. I will enter the Master of Data Science program at the Chinese University of Hong Kong - Shenzhen (CUHKSZ) from 2025 fall.
-
-I am particularly interested in the statistics and machine learning methods in data science. :)
 
 Research Interests
 ------
