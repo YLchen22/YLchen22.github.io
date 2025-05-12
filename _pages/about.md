@@ -15,7 +15,7 @@ Currently I am taking a gap year to explore some academic topics and doing resea
 
 Research Interests
 ------
-Doing some math can be fun. I am excited about exploring novel **mathematical methods, tools, and algorithms** to deal with specific and challenging problems (maybe scientific or financial).
+Doing some math can be fun. I am excited about exploring novel **mathematical methods, tools, and algorithms** to deal with specific and challenging problems (maybe biological or financial).
 
 By the way, as a growing researcher, I am open (but not limited) to these interconnected topics:
 * Statistical Learning
