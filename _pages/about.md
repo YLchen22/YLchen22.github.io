@@ -17,13 +17,6 @@ Research Interests
 ------
 It sounds interesting to discover the information that can be interpreted and exploited by humans from data. I am interested in exploring the **implementation of data-driven methods or machine learning tools** in specific problems (maybe biological or financial).
 
-By the way, as a growing researcher, I am open (but not limited) to these interconnected topics:
-* Statistical Learning
-* Time Series Analysis
-* Data-Driven Modeling or Decision
-* Pattern Discovery and Knowledge Extraction
-* etc...
-
 Education
 ------
 * B.E. in Industrial Engineering, 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
