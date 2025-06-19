@@ -13,9 +13,9 @@ I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineeri
 
 I will enter the Master of Data Science program at the Chinese University of Hong Kong - Shenzhen (CUHKSZ) from 2025 fall.
 
-Research Interests
+Interests
 ------
-It sounds interesting to discover the information that can be interpreted and exploited by humans from data. I would like to explore the **application of data-driven methods or statistical and machine learning tools** in specific problems (maybe scientific or financial).
+I am still learning the **application of data-driven methods or statistical tools** in specific problems. I believe the prospect of discovering information that can be interpreted and exploited by humans from data. 
 
 Education
 ------
@@ -24,7 +24,7 @@ Education
 
 Experience
 ------
-I was privileged and lucky to explore several research projects with some excellent professors and collaborators, in spite of my shallow knowledge and skills.
+I was privileged and lucky to explore several research projects with some excellent professors and collaborators, in spite of my shallow knowledge and skills. Thanks to all of my friends!
 
 * Research Assistant: 2022 ~
   * Center for System Reliability and Safety, School of Mechanical and Electrical Engineering, UESTC
