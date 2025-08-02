@@ -2,8 +2,7 @@
 title: ""
 permalink: /zh/
 author_profile: true
-redirect_from: 
-  - /zh/
+redirect_from:
   - /zh.html
 ---
 
