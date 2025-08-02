@@ -13,17 +13,13 @@ redirect_from:
 * 工业工程，学士 <br> 电子科技大学 - 2024
 * 数据科学，硕士 <br> 香港中文大学（深圳） - 2027
 
-我正在学习数据驱动方法与统计学工具，以及他们的实际应用。我相信从数据中发现能够被人类理解并应用的信息是一项重要而有意义的工作。
+我正在学习数据驱动方法与统计学工具，以及他们的实际应用。我相信数据的价值，并希望从中发现能够被人类理解并应用的信息。
 
-兴趣爱好
+专业经历
 ------
-足球、台球是我日常的一部分。我同样喜欢动画，漫画，电影，文学，历史（我最喜欢的导演是韦斯·安德森）。有空的时候我也喜欢玩电子游戏。
+[点此查看我的简历](../files/cv2024.pdf)
 
-作为铁杆球迷，我支持**中国国家队和阿森纳足球俱乐部**。Come On You Gunners!
-
-Experience
-------
-虽然不才，但是我依然有幸参与过一些有趣的工作。感谢曾与我共度时光和给予我帮助的人！
+虽然不才，但是我依然有幸参与过一些有价值的工作。感谢曾与我共度时光和给予我帮助的人。
 
 * Research Assistant: 2022 ~
   * Center for System Reliability and Safety, School of Mechanical and Electrical Engineering, UESTC
@@ -32,3 +28,9 @@ Experience
 * Research Assistant (Remote): 2023 ~
   * [SCALE LAB](https://scale-lab-northwestern.github.io/)
   * Advisor: [Prof. Yiping Lu](https://2prime.github.io/)
+
+兴趣爱好
+------
+足球、台球是我日常的一部分。我同样喜欢动画，漫画，电影，文学，历史（我最喜欢的导演是韦斯·安德森）。有空的时候我也喜欢玩电子游戏。
+
+作为铁杆球迷，我支持**中国国家队和阿森纳足球俱乐部**。Come On You Gunners!
