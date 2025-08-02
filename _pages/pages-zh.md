@@ -3,7 +3,7 @@ title: ""
 permalink: /zh/
 author_profile: true
 redirect_from:
-  - /zh.html
+  - /中文版
 ---
 
 你好，欢迎访问我的个人主页！来了就是朋友，请随意浏览 :)
