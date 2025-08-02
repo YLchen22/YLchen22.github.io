@@ -1,10 +1,10 @@
 ---
-title: "关于我"
-permalink: /中文版/
+title: ""
+permalink: /zh/
 author_profile: true
 redirect_from: 
-  - /中文版/
-  - /中文版.html
+  - /zh/
+  - /zh.html
 ---
 
 你好，欢迎访问我的个人主页！来了就是朋友，请随意浏览 :)
