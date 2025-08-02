@@ -27,7 +27,7 @@ main:
     url: /life/
     
   - title: "中文版"
-    url: /中文版/
+    url: /zh/
     
   # - title: "Others"
   #   url: /others/
