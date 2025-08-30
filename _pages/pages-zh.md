@@ -21,11 +21,11 @@ redirect_from:
 
 虽然不才，但是我依然有幸参与过一些有价值的工作。感谢曾与我共度时光和给予我帮助的人。
 
-* Research Assistant: 2022 ~
+* Research Assistant: 2022 ~ 2025
   * Center for System Reliability and Safety, School of Mechanical and Electrical Engineering, UESTC
   * Advisor: [Prof. Yu Liu](https://faculty.uestc.edu.cn/yuliu/en/index.htm), [Prof. Tangfan Xiahou](https://scholar.google.com/citations?user=iandqcUAAAAJ), Prof. Yan Shi.
  
-* Research Assistant (Remote): 2023 ~
+* Research Assistant (Remote): 2023 ~ 2025
   * [SCALE LAB](https://scale-lab-northwestern.github.io/)
   * Advisor: [Prof. Yiping Lu](https://2prime.github.io/)
 
