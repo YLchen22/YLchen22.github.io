@@ -15,7 +15,7 @@ I am pursuing a Master of Data Science at the Chinese University of Hong Kong - 
 
 Profession
 ------
-I believe the prospect of discovering information that can be interpreted and exploited by humans from data. I am keeping on learning the **data-driven methods or statistical tools**, and would like to explore their applications in **IT industry or Fintech.**
+I believe the prospect of discovering information that can be interpreted and exploited by humans from data. I am keen to explore the **data-driven methods or statistical tools** and their applications in IT industry or Fintech.
 
 Education
 ------
