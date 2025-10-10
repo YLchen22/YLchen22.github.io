@@ -11,7 +11,7 @@ Welcome to my homepage!
 
 I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineering from the University of Electronic Science and Technology of China (UESTC) in July, 2024. 
 
-I am pursuing a Master of Data Science at the Chinese University of Hong Kong - Shenzhen (CUHKSZ), beginning from 2025 Fall.
+I am pursuing a Master of Data Science degree at the Chinese University of Hong Kong - Shenzhen (CUHKSZ), beginning from 2025 Fall.
 
 Profession
 ------
