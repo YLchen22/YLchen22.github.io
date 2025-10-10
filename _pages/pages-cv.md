@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Please click here to view!](../files/cv2024.pdf)
+[Please click here to view!](../files/CVen.pdf)
 
 
