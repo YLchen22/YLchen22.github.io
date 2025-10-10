@@ -19,7 +19,7 @@ redirect_from:
 ------
 [点此查看我的简历](../files/CVen.pdf)
 
-虽然不才，但是我依然有幸参与过一些有价值的工作。感谢曾与我共度时光和给予我帮助的朋友们。
+虽然不才，但是我依然有幸参与过一些有趣的工作。感谢曾与我共度时光和给予我帮助的朋友们。
 
 * Research Assistant: 2022 ~ 2025
   * Center for System Reliability and Safety, School of Mechanical and Electrical Engineering, UESTC
