@@ -11,4 +11,3 @@ redirect_from:
 
 [Please click here to view!](../files/CVen.pdf)
 
-
