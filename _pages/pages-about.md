@@ -30,7 +30,7 @@ I was privileged and lucky to explore several research projects with some excell
   * Center for System Reliability and Safety, School of Mechanical and Electrical Engineering, UESTC
   * Advisor: [Prof. Yu Liu](https://faculty.uestc.edu.cn/yuliu/en/index.htm), [Prof. Tangfan Xiahou](https://scholar.google.com/citations?user=iandqcUAAAAJ), Prof. Yan Shi.
  
-* Research Assistant (Remote): 2023 ~ 2025
+* Research Assistant (Remote): 2024 ~ 2025
   * [SCALE LAB](https://scale-lab-northwestern.github.io/)
   * Advisor: [Prof. Yiping Lu](https://2prime.github.io/)
 
