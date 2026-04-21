@@ -13,14 +13,12 @@ I obtained my Bachelor's degree of Engineering, majoring in Industrial Engineeri
 
 I am pursuing a Master of Data Science degree at the Chinese University of Hong Kong - Shenzhen (CUHKSZ), beginning from 2025 Fall.
 
-Profession
-------
-I am exploring my career as a general data analyst, with a particular interest in quantitative finance. I firmly believe that human insight and discernment remain irreplaceable in the era of artificial intelligence.
-
 Education
 ------
 * B.E. in Industrial Engineering, 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
 * M.Sc. in Data Science, 2027 (Expected) <br> The Chinese University of Hong Kong - Shenzhen, Shenzhen, China
+* 
+I am exploring my career as a general data scientist, with a particular interest in quantitative finance. In the era of artificial intelligence, and the context of data science, I firmly believe that thoughts and insights of human being remain irreplaceable!
 
 Experience
 ------
