@@ -18,7 +18,7 @@ Education
 * B.E. in Industrial Engineering, 2024 <br> University of Electronic Science and Technology of China, Chengdu, China
 * M.Sc. in Data Science, 2027 (Expected) <br> The Chinese University of Hong Kong - Shenzhen, Shenzhen, China
  
-I am exploring my career as a general data scientist, with a particular interest in quantitative finance. In the era of artificial intelligence, and the context of data science, I firmly believe that thoughts and insights of human being remain irreplaceable!
+I am exploring my career as a general data scientist, with a particular interest in investment or business operation. In the era of artificial intelligence, and the context of data science, I firmly believe that thoughts and insights of human being remain irreplaceable!
 
 Experience
 ------
